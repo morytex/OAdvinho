@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">OAdvinho</string>
+    <string name="app_name">O Advinho</string>
+    <string name="digite_o_seu_chute">Digite o seu chute:</string>
+    <string name="chutes_restantes">Chutes restantes:</string>
 </resources>
